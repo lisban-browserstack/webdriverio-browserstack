@@ -1,0 +1,2 @@
+build id : 3da077e86b1845ab819fc8b454a2cef63cd47279
+public link : https://automate.browserstack.com/dashboard/v2/public-build/YWRWWXdOWmgybzRYdW9icUpselM5K1NiWXNRUjhEb1pzOW1Na05NK1hJUW1pTlN2UlJ1QUNMbkhSMTBtRFV6eldrNlQ5TGQyb0VTaGduZTlHamJFdUE9PS0tYTVWL2tFRVFXdUdaN3VPQitZT2hLQT09--cd2cc07e309fc2c5d13e81b9b9b55eb2e949185f
